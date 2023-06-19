@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#domain {
+  display: block;
+  text-align: center;
+}
+button {
+  border-radius: 8px;
+}
